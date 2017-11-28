@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+	padding: 0;
+	
+	
+}
+
+.signup{
+	line-height: 1px;
+	float: right;
+	background-color: #ccc;
+	width: 50%;
+
+	
+}
+.login{
+	line-height: 1px;
+	float: left;
+	background-color: #ccc;
+	width: 50%;
+
+	
+
+}
+input[type=submit]{
+		cursor: pointer;
+}
+table{
+	
+		
+		margin: 5% 10%;
+	
+
+}
+
